@@ -1,0 +1,168 @@
+﻿country;latitude;longitude;name
+AF;33;65;Afghanistan
+ZA;-29;24;Afrique du Sud
+AL;41;20;Albanie
+DZ;28;3;Algérie
+DE;51;9;Allemagne
+AO;-12.5;18.5;Angola
+AG;17.05;-61.8;Antigua-et-Barbuda
+SA;25;45;Arabie saoudite
+RA;-34;-64;Argentine
+AM;40;45;Arménie
+AU;-27;133;Australie
+AT;47.33;13.33;Autriche
+AZ;40.5;47.5;Azerbaïdjan
+BS;25.03;-77.4;Bahamas
+BD;24;90;Bangladesh
+BB;13.17;-59.53;Barbade
+BY;53;28;Bélarus
+BE;50.83;4,00;Belgique
+BZ;17.25;-88.75;Belize
+BJ;9.5;2.25;Bénin
+BM;32.33;-64.75;Bermudes
+BO;-17;-65;Bolivie (État plurinational de)
+BA;44;18;Bosnie-Herzégovine
+BW;-22;24;Botswana
+BR;-10;-55;Brésil
+BN;4.5;114.67;Brunéi Darussalam
+BG;43;25;Bulgarie
+BF;13;-2;Burkina Faso
+CV;16.54;23.04;Cabo Verde
+KH;13;105;Cambodge
+CM;6;12;Cameroun
+CA;60;-95;Canada
+CL;-30;-71;Chili
+HK;22.27;114.19;Chine - RAS de Hong-Kong
+MO;22.17;113.55;Chine - RAS de Macao
+CN;35;105,0;Chine continentale
+TW;23.5;121,00;Chine Taiwan Province de
+CY;35;33;Chypre
+CO;4;-72;Colombie
+CD;0;25;Congo
+CR;10;-84;Costa Rica
+CI;8;-5;Côte dIvoire
+HR;45.17;15.5;Croatie
+CU;21.5;-80,00;Cuba
+DK;56;10;Danemark
+DJ;11.5;43,00;Djibouti
+MP;15.2;145.75;Dominique
+EG;27,00;30,00;Égypte
+AE;24,00;54,00;Émirats arabes unis
+EC;-2;-77.5;Équateur
+ES;40;-4;Espagne
+EE;59;26;Estonie
+États-Unis;38;-97;États-Unis dAmérique
+PR;18.25;-66.5;Éthiopie
+RU;60;100;Fédération de Russie
+FJ;17.71;178.07;Fidji
+FI;64;26;Finlande
+FR;46;2;France
+DG;-1;11.75;Gabon
+GM;13.47;-16.57;Gambie
+GE;42;43.5;Géorgie
+GH;8;-2;Ghana
+GR;39;22;Grèce
+DB;12.12;-61.67;Grenade
+GT;15.5;-90.25;Guatemala
+GN;11;-10;Guinée
+GW;12;-15;Guinée-Bissau
+GY;5;-59;Guyana
+MT;35.94;14.38;Haïti
+HN;15;-86.5;Honduras
+HU;47;20;Hongrie
+SB;-8;159;Îles Salomon
+IN;20;77;Inde
+ID;-5;120;Indonésie
+IR;32;53;Iran (République islamique d)
+IQ;33;44;Iraq
+IE;53;-8;Irlande
+IS;65;-18;Islande
+IL;31.47;35.13;Israël
+IT;42.83;12.83;Italie
+JM;18.25;-77.5;Jamaïque
+JP;36;138;Japon
+JO;31;36;Jordanie
+KZ;48.02;66.92;Kazakhstan
+KE;1;38;Kenya
+KG;41;75;Kirghizistan
+KI;1.42;173,00;Kiribati
+KW;29.5;45.75;Koweït
+LS;-29.5;28.5;Lesotho
+LV;57;25;Lettonie
+LB;33.83;35.83;Liban
+LR;6.5;-9.5;Libéria
+LT;56;24;Lituanie
+LU;49.75;6.17;Luxembourg
+MK;41.83;22;Macédoine du Nord
+MG;-20;47;Madagascar
+MY;2.5;112.5;Malaisie
+MW;-13.5;34;Malawi
+MV;3.25;73;Maldives
+ML;17;-4;Mali
+MT;35.94;14.38;Malte
+MA;32;-5;Maroc
+MU;-20.28;57.55;Maurice
+MR;20;-12;Mauritanie
+MX;23;-102;Mexique
+MN;46;105;Mongolie
+ME;42.5;19.3;Monténégro
+MZ;-18.25;35;Mozambique
+NA;-22;17;Namibie
+NP;28;84;Népal
+NI;13;-85;Nicaragua
+NE;16;8;Niger
+NG;10;8;Nigéria
+NON;62;10;Norvège
+NC;-21.5;165.5;Nouvelle-Calédonie
+NZ;-41;174;Nouvelle-Zélande
+OM;21;57;Oman
+UG;1;32;Ouganda
+UZ;41;64;Ouzbékistan
+PK;30;70;Pakistan
+PA;9;-80;Panama
+PY;-23;-58;Paraguay
+NL;52.5;5.75;Pays-Bas
+PE;-10;-76;Pérou
+PH;13;122;Philippines
+PL;52;20;Pologne
+PF;17.68;149.41;Polynésie française
+PT;39.5;-8;Portugal
+CF;7;21;République centrafricaine
+KR;37;127.5;République de Corée
+MD;47;29;République de Moldova
+LA;18;105;République démocratique populaire lao
+DO;19;-70.67;République dominicaine
+KP;40;127;République populaire démocratique de Corée
+TZ;-6;35;République-Unie de Tanzanie
+RO;46;25;Roumanie
+RW;-2;30;Rwanda
+LC;13.88;-60.97;Sainte-Lucie
+CV;16.54;23.04;Saint-Vincent-et-les Grenadines
+WS;-13.58;-172.33;Samoa
+ST;1;7;Sao Tomé-et-Principe
+SN;14;-14;Sénégal
+RS;44;21;Serbie
+SP;8.5;-11.5;Sierra Leone
+SK;48.67;19.5;Slovaquie
+SI;46.12;14.82;Slovénie
+SD;15;30;Soudan
+LK;7;81;Sri Lanka
+SE;62;15;Suède
+CH;47;8;Suisse
+SR;4;-56;Suriname
+TJ;39;71;Tadjikistan
+TD;15;19;Tchad
+TH;15;100;Thaïlande
+TG;8;1.17;Togo
+TT;10.69;-61.22;Trinité-et-Tobago
+TN;34;9;Tunisie
+TM;40;60;Turkménistan
+TR;39;35;Turquie
+UA;49;32;Ukraine
+UY;-33;-56;Uruguay
+VU;-16;167;Vanuatu
+VE;8;-66;Venezuela (République bolivarienne du)
+VN;16.17;107.83;Viet Nam
+YE;15;48;Yémen
+ZM;-15;30;Zambie
+ZW;-20;30;Zimbabwe
